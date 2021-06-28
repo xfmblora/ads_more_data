@@ -1,1 +1,84 @@
-
+{
+  "More": [
+    {
+      "id": 1,
+      "judul": "Spider Man Skin For Minecraft",
+      "image": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe"
+    },
+    {
+      "id": 2,
+      "judul": "Preston Skin For Minecraft",
+      "image": "https://play-lh.googleusercontent.com/Dld9bhq6b7pBAb2lDFOawu6pRWC70M1WGwNHcGbDyibEzBk5c3mobbrJRM5Rv-iTYw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.preston.skin.mcpe"
+    },
+    {
+      "id": 3,
+      "judul": "Kamen Rider Skins",
+      "image": "https://play-lh.googleusercontent.com/ZFvcBrr7Ic5Uf5yjOhMSxNL93BaCWKmLh4k8NjgVMoXh3ESnCBnGTDlnBVneJLnbFQ-d=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.kamen.rider.skin.mcpe"
+    },
+    {
+      "id": 4,
+      "judul": "Super Hero Skins",
+      "image": "https://play-lh.googleusercontent.com/yuN58sqw4o8_RHrc_ECEGxS3MJ-6r1PMzFBp0rZ2MYJZXIcOgSsSlaGavyiNyV9fbQ=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.superhero.skin.mcpe"
+    },
+    {
+      "id": 5,
+      "judul": "Medieval Skins",
+      "image": "https://play-lh.googleusercontent.com/fkDUSiFtkV2GovgvAoNGCv1Oe3_2-W9yMEUZsF-SpZ_hIEFStlGHhQr-e3AI4uY13Hw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.medieval.skin.mcpe"
+    },
+    {
+      "id": 5,
+      "judul": "Minecraft",
+      "image": "https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+  "MoreDev": [
+    {
+      "id": 1,
+      "judul": "Spiderman Skins",
+      "image": "https://play-lh.googleusercontent.com/PaPDA3fwetBeFtzA9mLxY7YfZol1nesCyuIASLZdJGwpVbTDYZBM-zMiETcb1f1v77A=s180-rw",
+      "image2": "https://nananananana.site/gajahwongdev/images/ad_icons.png",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.spiderman.skin.mcpe"
+    },
+    {
+      "id": 2,
+      "judul": "Preston Skins",
+      "image": "https://play-lh.googleusercontent.com/Dld9bhq6b7pBAb2lDFOawu6pRWC70M1WGwNHcGbDyibEzBk5c3mobbrJRM5Rv-iTYw=s180-rw",
+      "image2": "https://nananananana.site/gajahwongdev/images/ad_icons.png",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.preston.skin.mcpe"
+    },
+    {
+      "id": 3,
+      "judul": "Kamen Rider Skins",
+      "image": "https://play-lh.googleusercontent.com/ZFvcBrr7Ic5Uf5yjOhMSxNL93BaCWKmLh4k8NjgVMoXh3ESnCBnGTDlnBVneJLnbFQ-d=s180-rw",
+      "image2": "https://nananananana.site/gajahwongdev/images/ad_icons.png",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.kamen.rider.skin.mcpe"
+    },
+    {
+      "id": 4,
+      "judul": "Super Hero Skins",
+      "image": "https://play-lh.googleusercontent.com/yuN58sqw4o8_RHrc_ECEGxS3MJ-6r1PMzFBp0rZ2MYJZXIcOgSsSlaGavyiNyV9fbQ=s180-rw",
+      "image2": "https://nananananana.site/gajahwongdev/images/ad_icons.png",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.superhero.skin.mcpe"
+    },
+    {
+      "id": 5,
+      "judul": "Medieval Skins",
+      "image": "https://play-lh.googleusercontent.com/fkDUSiFtkV2GovgvAoNGCv1Oe3_2-W9yMEUZsF-SpZ_hIEFStlGHhQr-e3AI4uY13Hw=s180-rw",
+      "image2": "https://nananananana.site/gajahwongdev/images/ad_icons.png",
+      "link": "https://play.google.com/store/apps/details?id=com.starladev.medieval.skin.mcpe"
+    },
+    {
+      "id": 6,
+      "judul": "Girlfriend  Call",
+      "image": "https://play-lh.googleusercontent.com/dl8z4N90-srnkUwa-oTA-oSO56ouYucqEpzGuV_QmvGFSHt61R_SWfjQ80k2dXoodw=s180-rw",
+      "image2": "https://nananananana.site/gajahwongdev/images/ad_icons.png",
+      "link": "https://play.google.com/store/apps/details?id=com.gamaotanker.girlfriendvideocall"
+    }
+  ]
+}
